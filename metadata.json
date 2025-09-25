@@ -1,0 +1,5 @@
+{
+  "name": "Webinar Bot Simulator",
+  "description": "A React application that simulates a webinar registration bot and provides an admin panel for management, designed with a Persian-language UI.",
+  "requestFramePermissions": []
+}
